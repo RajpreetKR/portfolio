@@ -6,7 +6,7 @@
 body {
     margin: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    background-image: url('portfolio/assets/home.png');
+    background-image: url('./background/home.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
